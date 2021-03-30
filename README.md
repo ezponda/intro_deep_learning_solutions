@@ -1,1 +1,2 @@
-# intro_deep_learning_solutions
+# intro_deep_learning
+Deep learning  course
